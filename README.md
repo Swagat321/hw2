@@ -1,2 +1,2 @@
-# hw2
-Repo storing hw2 of stor 390
+# Repo for Homework 2
+Description for Homework 2 for Stor 390: Morality of Machine Learning.
